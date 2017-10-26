@@ -14,4 +14,4 @@ You can access it by going to “Settings, Update & Security,” then Windows De
 
 Defender will only stay inactive for a short period of time. When it detects that it’s been off for too long, it will automatically turn itself back ON again.
 
-Watch This Video Tutorial : https://www.youtube.com/watch?v=7_1zyMtcdvo
+Watch This Video Tutorial to do it manually : https://www.youtube.com/watch?v=7_1zyMtcdvo
